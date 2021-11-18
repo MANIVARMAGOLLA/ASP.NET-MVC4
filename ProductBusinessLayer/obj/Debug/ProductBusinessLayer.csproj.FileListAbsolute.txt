@@ -1,0 +1,11 @@
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductBusinessLayer\bin\Debug\ProductBusinessLayer.dll
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductBusinessLayer\bin\Debug\ProductBusinessLayer.pdb
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductBusinessLayer\bin\Debug\ProductDataAccessLayer.dll
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductBusinessLayer\bin\Debug\ProductDataTransfer.dll
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductBusinessLayer\bin\Debug\ProductDataAccessLayer.pdb
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductBusinessLayer\bin\Debug\ProductDataTransfer.pdb
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductBusinessLayer\obj\Debug\ProductBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductBusinessLayer\obj\Debug\ProductBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductBusinessLayer\obj\Debug\ProductBusinessLayer.csproj.CopyComplete
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductBusinessLayer\obj\Debug\ProductBusinessLayer.dll
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductBusinessLayer\obj\Debug\ProductBusinessLayer.pdb

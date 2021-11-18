@@ -1,0 +1,6 @@
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductDataTransfer\bin\Debug\ProductDataTransfer.dll
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductDataTransfer\bin\Debug\ProductDataTransfer.pdb
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductDataTransfer\obj\Debug\ProductDataTransfer.csproj.AssemblyReference.cache
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductDataTransfer\obj\Debug\ProductDataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductDataTransfer\obj\Debug\ProductDataTransfer.dll
+C:\Users\ARSHAD\Desktop\Work\SQL\ADONET\ASPNET MVC\MVCActivity4\ProductDataTransfer\obj\Debug\ProductDataTransfer.pdb
